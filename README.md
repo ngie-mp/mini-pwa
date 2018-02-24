@@ -1,13 +1,9 @@
-## Build Setup
-
-# 1/ install dependencies
+## Install dependencies
 npm install
 
-# 2/ launch server in background
+## Launch server in background
 npm start &
 
-# 3/ build application each time to apply changements
+## Build application each time to apply changements
 npm run build
-
-...
 
